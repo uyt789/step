@@ -1,0 +1,12 @@
+    1  git status
+    2  pwd
+    3  cd ./Desktop/
+    4  mkdir 13122021
+    5  ls
+    6  cd 12122021
+    7  cd 13122021
+    8  git clone https://github.com/uyt789/step.git
+    9  git status
+   10  cd ./step/
+   11  ls
+   12  history >> file.txt 
