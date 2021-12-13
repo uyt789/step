@@ -11,4 +11,13 @@
    11  ls
    12  history >> file.txt 
 ogogogogogogo
+<<<<<<< HEAD
 
+=======
+dfsdsdsdsd
+>>>>>>> 0eedddc69da3850acc61bca2cb1cc8036e440579
+
+
+
+
+Clone !!!!!!!
