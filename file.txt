@@ -10,5 +10,5 @@
    10  cd ./step/
    11  ls
    12  history >> file.txt 
+ogogogogogogo
 
-13 !!!!!!
